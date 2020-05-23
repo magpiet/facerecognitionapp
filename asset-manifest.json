@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/facerecognitionapp/static/css/main.e6b3c3c3.chunk.css",
-    "main.js": "/facerecognitionapp/static/js/main.e92b19d2.chunk.js",
-    "main.js.map": "/facerecognitionapp/static/js/main.e92b19d2.chunk.js.map",
+    "main.css": "/facerecognitionapp/static/css/main.d4924d1f.chunk.css",
+    "main.js": "/facerecognitionapp/static/js/main.cbaa5212.chunk.js",
+    "main.js.map": "/facerecognitionapp/static/js/main.cbaa5212.chunk.js.map",
     "runtime-main.js": "/facerecognitionapp/static/js/runtime-main.dc34089f.js",
     "runtime-main.js.map": "/facerecognitionapp/static/js/runtime-main.dc34089f.js.map",
     "static/css/2.3c03f26f.chunk.css": "/facerecognitionapp/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.530e4ab1.chunk.js": "/facerecognitionapp/static/js/2.530e4ab1.chunk.js",
-    "static/js/2.530e4ab1.chunk.js.map": "/facerecognitionapp/static/js/2.530e4ab1.chunk.js.map",
+    "static/js/2.2415e1d8.chunk.js": "/facerecognitionapp/static/js/2.2415e1d8.chunk.js",
+    "static/js/2.2415e1d8.chunk.js.map": "/facerecognitionapp/static/js/2.2415e1d8.chunk.js.map",
     "index.html": "/facerecognitionapp/index.html",
-    "precache-manifest.19034c6db65131d69b7f20ee2a34b3d1.js": "/facerecognitionapp/precache-manifest.19034c6db65131d69b7f20ee2a34b3d1.js",
+    "precache-manifest.0aeff6272e84859339f17f38f7a8375f.js": "/facerecognitionapp/precache-manifest.0aeff6272e84859339f17f38f7a8375f.js",
     "service-worker.js": "/facerecognitionapp/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/facerecognitionapp/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.e6b3c3c3.chunk.css.map": "/facerecognitionapp/static/css/main.e6b3c3c3.chunk.css.map",
-    "static/js/2.530e4ab1.chunk.js.LICENSE.txt": "/facerecognitionapp/static/js/2.530e4ab1.chunk.js.LICENSE.txt"
+    "static/css/main.d4924d1f.chunk.css.map": "/facerecognitionapp/static/css/main.d4924d1f.chunk.css.map",
+    "static/js/2.2415e1d8.chunk.js.LICENSE.txt": "/facerecognitionapp/static/js/2.2415e1d8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.dc34089f.js",
     "static/css/2.3c03f26f.chunk.css",
-    "static/js/2.530e4ab1.chunk.js",
-    "static/css/main.e6b3c3c3.chunk.css",
-    "static/js/main.e92b19d2.chunk.js"
+    "static/js/2.2415e1d8.chunk.js",
+    "static/css/main.d4924d1f.chunk.css",
+    "static/js/main.cbaa5212.chunk.js"
   ]
 }
